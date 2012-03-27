@@ -8,7 +8,7 @@
 
 *******************************************
 
-A modX extra to show products via Shopify Products.
+A modX extra to show products via Shopify API.
 
 # Installation
 
