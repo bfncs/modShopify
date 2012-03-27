@@ -1,9 +1,11 @@
 # modX Extra: modShopify
 
 *******************************************
+
 * Extra: modShopify
 * Developer: Marc Loehe (@boundaryfunc)
 * Version: 1.0-alpha
+
 *******************************************
 
 A modX extra to show products via Shopify Products.
