@@ -1,0 +1,5 @@
+Changelog
+
+ModShopify 1.0-alpha
+====================================
+- Initial commit
