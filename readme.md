@@ -1,4 +1,6 @@
-# modX Extra: modShopify
+# DEPRECATED: modX Extra: modShopify
+
+__NOTICE:__ This extra was just a proof of concept and never intended for public usage. This hasn't been updated for some time and doesn't work with the current version of the Shopify API. 
 
 *******************************************
 
